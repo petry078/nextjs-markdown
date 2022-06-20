@@ -1,5 +1,7 @@
 # Markdown blog with NextJS and React-Markdown
 
+![](proof.png)
+
 > npm install
 
 > npm run dev
