@@ -7,3 +7,7 @@
 or
 
 > yarn dev
+
+Future work:
+
+- [ ] Render all markdown styles (tables, tips, code...)
