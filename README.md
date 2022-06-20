@@ -1,2 +1,4 @@
-# nextjs-markdown
-markdown blog with nextjs and react-markdown
+# Markdown blog with NextJS and React-Markdown
+
+* npm install
+* npm run dev || yarn dev
